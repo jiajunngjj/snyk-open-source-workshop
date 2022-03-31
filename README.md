@@ -360,4 +360,6 @@ Thanks for attending and completing this workshop
 ![alt tag](https://i.ibb.co/7tnp1B6/snyk-logo.png)
 
 <hr />
-JJ Ng [jj.ng at snyk.io] is an Solutions Engineer at Snyk, APJ
+Pas Apicella [pas at snyk.io] is a Principal Solution Engineer at Snyk APJ
+
+JJ Ng [jj.ng at snyk.io] is a Solutions Engineer at Snyk, APJ
